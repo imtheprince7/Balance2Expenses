@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.b2c</groupId>
-    <artifactId>Business2Expenses</artifactId>
+    <artifactId>Balance2Expenses</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Business2Expenses</name>
-    <description>Business2Expenses</description>
+    <description>Business2Expenses is a record tracking platform</description>
     <properties>
         <java.version>17</java.version>
     </properties>
@@ -33,6 +33,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+  <!--AZURE connection dependencies-->
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
