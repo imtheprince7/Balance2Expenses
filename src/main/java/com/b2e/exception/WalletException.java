@@ -1,4 +1,4 @@
-package com.b2c.exception;
+package com.b2e.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

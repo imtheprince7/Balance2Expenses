@@ -1,4 +1,4 @@
-package com.b2c.exception;
+package com.b2e.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

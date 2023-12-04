@@ -1,4 +1,4 @@
-package com.b2c.model;
+package com.b2e.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

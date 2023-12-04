@@ -1,4 +1,4 @@
-package com.b2c.entity;
+package com.b2e.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Max;

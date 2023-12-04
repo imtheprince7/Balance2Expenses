@@ -1,4 +1,4 @@
-package com.b2c;
+package com.b2e;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

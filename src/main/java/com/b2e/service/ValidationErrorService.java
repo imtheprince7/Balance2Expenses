@@ -1,4 +1,4 @@
-package com.b2c.service;
+package com.b2e.service;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
