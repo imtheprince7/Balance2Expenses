@@ -27,7 +27,7 @@ public class Transaction {
 
 //    @NotNull(message ="Transaction Type can't be blank")
     @Min(1) @Max(4)
-    private int transactionType;    // 1. Income,  2. Expenses   3. GivingLoan  4. Taking Loan
+    private int transactionType;    // 1. Income(Green),  2. Expenses(Red)   3. GivingLoan(Grey)  4. Taking Loan(Purple)
 
 //    @NotNull(message="Date can't be blank")
     @JsonFormat(pattern = "yyyy-mm-dd")
