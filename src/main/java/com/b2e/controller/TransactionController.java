@@ -52,7 +52,7 @@ public class TransactionController {
         return new ResponseEntity<>(transactionSaved, HttpStatus.ACCEPTED);
     }
 
-    // Method for Delete Req:
+    // Method for Delete Req from client:
     // @DeleteMapping("/{wallet_id}/{transaction_id}")
     public  ResponseEntity<?> deleteUser(@PathVariable Long wallet_id,@PathVariable Long transaction_id){
         transactionService.delete(wallet_id, transaction_id);
