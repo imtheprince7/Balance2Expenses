@@ -53,7 +53,7 @@
         </dependency>
 
     </dependencies>
-
+<!--Project Loombook SetUp-->
     <build>
         <plugins>
             <plugin>
